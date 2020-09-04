@@ -1,7 +1,7 @@
 <div align="justify">
 
 <h1><u> Descripción</u></h1>
-Implementación de un pseudo-evaluador de código enfocado para el lenguaje de programación Scheme.  </br>
+<p>Implementación de un pseudo-evaluador de código enfocado para el lenguaje de programación Scheme. </p> 
 
 Utilizado como herramienta de automatización de calificaciones para los estudiantes del curso Fundamentos de Lenguajes de Programación ofertado por la Escuela de Ingeniería de Sistemas y Computación en la Universidad del Valle, Sede Cali.
 
@@ -23,7 +23,7 @@ Dentro de la capeta `Templates:`
 <h2><u> Instrucciones</u></h2>
 
 * Copiar el archivo `GenerateTXT.bat` al directorio raíz donde se encuentren las carpetas que a su vez contienen los archivos comprimidos **.zip**.
-* Ejecutar el script .bat que generara un archivo TXT
+* Ejecutar el script .bat que generara un archivo TXT.
 * En el archivo `list_groups.txt` se encuentran todos los **include** que deben ser agregados manualmente a su respectiva sección de código en el archivo principal `Solver.rkt`.
 
 
