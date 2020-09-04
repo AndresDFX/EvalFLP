@@ -1,10 +1,9 @@
 <div align="justify">
 
 <h1><u> Descripción</u></h1>
-Implementación de un pseudo-evaluador de código enfocado para el lenguaje de programación Scheme. 
+Implementación de un pseudo-evaluador de código enfocado para el lenguaje de programación Scheme.  </br>
 
-
-Utilizado como herramienta de automatización de calificaciones para los estudiantes del curso Fundamentos de Lenguajes de Programación ofertado por la Escuela de Ingeniería de Sistemas y Computación en la Universidad del Valle,sede Cali.
+Utilizado como herramienta de automatización de calificaciones para los estudiantes del curso Fundamentos de Lenguajes de Programación ofertado por la Escuela de Ingeniería de Sistemas y Computación en la Universidad del Valle, Sede Cali.
 
 
 </div>
