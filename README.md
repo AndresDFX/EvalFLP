@@ -17,7 +17,7 @@ Dentro de la capeta `Templates:`
 - `example_file.rkt:`Ejemplo de archivo de un estudiante.
 
 
-**NOTA:** El script que genera algunos archivos necesarios, esta escrito para funcionar en algún shell MS-DOS (por ejemplo el cmd de Windows).
+**NOTA:** En caso de que los nombres de los archivos a evaluar sean diferentes, utilice el script para extraer y generar un archivo TXT con el nombre de los archivos concantenados con la instruccion `include` de Scheme,el script esta escrito para funcionar en algún shell MS-DOS (por ejemplo el cmd de Windows).
 
 ---
 <h2><u> Instrucciones</u></h2>
